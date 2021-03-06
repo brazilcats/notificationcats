@@ -1,6 +1,6 @@
 {
     "name": "brazilcats/notification",
-    "description": "Bibliote para gerar notificacoes por email",
+    "description": "Biblioteca para gerar notificações por email",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,6 @@
             "email": "contato@brazilcats.com.br"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "phpmailer/phpmailer": "6.0.1"
     },
@@ -20,5 +19,6 @@
         "psr-4": {
             "Notification\\": "_app"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
