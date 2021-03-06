@@ -20,5 +20,5 @@
             "Notification\\": "_app"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
